@@ -1,6 +1,6 @@
 > San Francisco is the best!
 
-I'm Leonardo Zizzamia, and this is a list of my favorite places in San Francisco, it's very opinionated on my personal taste and I will keep updated the list during my continue research of new spot I haven't tried yet. My taste is based on the tradition of my homeland, Taranto, a seafood town in Southern Italy, with incredible pastries, coffee, and simple flavors. 
+I'm Leonardo Zizzamia, and this is a list of my favorite places in San Francisco, it's opinionated on my personal taste and I will keep updated the list during my continue research of new spots I haven't tried yet. My taste is based on the tradition of my homeland, Taranto, a seafood town in Southern Italy, with incredible pastries, coffee, and simple flavors. 
 
 I have been living in San Francisco from 2013, I might miss some incredible restaurant, art gallery or a new beer spot, please feel free to contact me on Twitter ([@zizzamia](https://twitter.com/zizzamia)) or send a Pull Request with your suggestion, I would love to discover more SF. Grazie!
 
