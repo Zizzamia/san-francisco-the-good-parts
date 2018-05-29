@@ -7,7 +7,7 @@ My taste is based on the traditions I was brought up with in Taranto, a seafood 
 I have been living in San Francisco since 2013, but I might miss an incredible restaurant, art gallery or Biergarten in my exploration, so please feel free to contact me on Twitter ([@zizzamia](https://twitter.com/zizzamia)) or send a Pull Request with your suggestions, I would love to uncover more of SF. Grazie!
 
 ### Tarantino
-M chiam Leonardo zizzania ,e quest e a list d l post preferit d San francisc.
+M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc.
 
 # Food
 
@@ -64,6 +64,10 @@ M chiam Leonardo zizzania ,e quest e a list d l post preferit d San francisc.
 - [Palace of Fine Arts Theatre](https://www.google.com/maps/place/Palace+of+Fine+Arts+Theatre/@37.802292,-122.4494073,3a,79.4y,90t/data=!3m8!1e2!3m6!1shttp:%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn:ANd9GcQ7qQrEtGKT8ETEAFGLMhG82qBGtWWQfNJbq1Mk-UaddOQ-nZIx!2e7!3e27!6s%2F%2Flh4.googleusercontent.com%2Fproxy%2F3-PBtSmSt29O-7wQKPrtMQQFTMUKUBurvBmrbBY7T28ogOlTmv719OKmbenq-R98GgI-AvEWHNFsBbr4jubNVyMDkg37qlJzECAGt91D1uEG14glwy5_BJkIsP536tBJgGo6EwLFbIAK02GD69EZ_df3lC9u7A%3Dw128-h86-k-no!7i1080!8i721!4m5!3m4!1s0x0:0x92d8d1553a44df2c!8m2!3d37.8029581!4d-122.449193): [3301 Lyon St](https://www.google.com/maps/place/Palace+of+Fine+Arts+Theatre/@37.8030244,-122.4498042,16z/data=!4m5!3m4!1s0x0:0x92d8d1553a44df2c!8m2!3d37.8029581!4d-122.449193)
 
 
+# Touristic AF
+- [The Buena Vista](http://www.thebuenavista.com/home/home.html): Opened in 1916, this corner spot serves its signature Irish coffee alongside American staples. [2765 Hyde St](https://www.google.com/maps/place/The+Buena+Vista/@37.8067954,-122.422038,18z/data=!4m12!1m6!3m5!1s0x0:0xe9c90de80067ba0e!2sYoda+Fountain!8m2!3d37.7988301!4d-122.4504895!3m4!1s0x808f7e37f0d196f9:0xcf2a7b909a94bfc3!8m2!3d37.8065046!4d-122.4207777)
+
+
 # Getting around
 Lyft, Bikes, Bus, Walk
 
@@ -113,7 +117,7 @@ It's where I live, just the best
 - Sababa
 
 ## Fisherman's Wharf
-
+- The Buena Vista
 
 # Credits
 
