@@ -55,13 +55,21 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc. St
 - [Biergarten](http://www.biergartensf.com/): Outdoor beer garden with communal tables for rotating draft beers & locally sourced German pub grub. [424 Octavia St](https://www.google.com/maps/place/Biergarten/@37.7764276,-122.4250905,18z/data=!4m5!3m4!1s0x0:0x94676fdd291c2f85!8m2!3d37.776093!4d-122.4241251)
 
 ## Cocktail Bar
-- [Linden Room](https://www.nightbirdrestaurant.com/linden-room/): A sophisticated spot serving classic & seasonal cocktails in a tiny space with vintage-chic style. [292 Linden St](https://www.google.com/maps/place/Linden+Room/@37.7761056,-122.4239646,18z/data=!3m1!5s0x80858098b8c3a60f:0xdb78b1e211a3b10!4m5!3m4!1s0x0:0x7e89eb3df17e19fc!8m2!3d37.7765191!4d-122.4226619)
 - [Smuggler's Cove](http://www.smugglerscovesf.com/): Popular, kitschy bar boasting pirate-themed decor, exotic cocktails & over 200 types of rum. [650 Gough St](https://www.google.com/maps/place/Smuggler's+Cove/@37.7783867,-122.4227737,18z/data=!4m5!3m4!1s0x0:0x2f020a98342c5d5d!8m2!3d37.779432!4d-122.4233751)
 - [Whitechapel](http://whitechapelsf.com/): Gin-focused cocktail lounge with globally inspired eats in expansive, ornate, Victorian-themed digs. [600 Polk St](https://www.google.com/maps/place/Whitechapel/@37.7820208,-122.4192236,17z/data=!4m5!3m4!1s0x0:0x450f494e526893e7!8m2!3d37.7824004!4d-122.418876)
+- [Linden Room](https://www.nightbirdrestaurant.com/linden-room/): A sophisticated spot serving classic & seasonal cocktails in a tiny space with vintage-chic style. [292 Linden St](https://www.google.com/maps/place/Linden+Room/@37.7761056,-122.4239646,18z/data=!3m1!5s0x80858098b8c3a60f:0xdb78b1e211a3b10!4m5!3m4!1s0x0:0x7e89eb3df17e19fc!8m2!3d37.7765191!4d-122.4226619)
+- [15 Romolo](http://15romolo.com/): Back-alley oasis teaming drinks, bar bites & a cocktail brunch with a jukebox & a sultry vibe. [15 Romolo Pl](https://www.google.com/maps/place/15+Romolo/@37.7980786,-122.4074014,18z/data=!4m5!3m4!1s0x0:0xb2849a72c4319c21!8m2!3d37.798167!4d-122.406381)
+- [Pagan Idol](http://www.paganidol.com/): Island-inspired cocktails poured in playful quarters outfitted with tiki huts & an erupting volcano. [375 Bush St](https://www.google.com/maps/place/Pagan+Idol/@37.7910036,-122.4057292,17z/data=!4m5!3m4!1s0x0:0xc980e99fe4e370f4!8m2!3d37.7907246!4d-122.4035914)
+- [Reed & Greenough](http://www.reedandgreenough.com/): Hip, upscale bar with vintage decor, handcrafted cocktails & a game area with shuffleboard. [3251 Scott St](https://www.google.com/maps/place/Reed+%26+Greenough/@37.7999161,-122.4421026,18z/data=!4m5!3m4!1s0x0:0xeb128cf758c5b4bd!8m2!3d37.7998361!4d-122.4413519)
 
 
 # Live Music
+- [Rickshaw Stop](https://www.rickshawstop.com/): Indie bands & DJs rock crowds in a small, funky space that also offers food & lounge areas. [155 Fell St](https://www.google.com/maps/place/Rickshaw+Stop/@37.7761563,-122.4213289,18z/data=!3m1!5s0x8085809ecfef617b:0x486cece41d52a160!4m5!3m4!1s0x0:0x74f6d9752530fd98!8m2!3d37.7759839!4d-122.420482)
 - [Bottom of the Hill](http://www.bottomofthehill.com/): From indie rock to hip-hop, this popular club offers a range of live music, plus outdoor seating. [1233 17th St](https://www.google.com/maps/place/Bottom+of+the+Hill/@37.7655346,-122.4027513,16z/data=!4m5!3m4!1s0x0:0x7f2858c020d2203b!8m2!3d37.7650663!4d-122.3964688)
+
+
+# Comedy Club
+- [The Punchline San Francisco](http://www.punchlinecomedyclub.com/): Small, basic venue showcasing a wide variety of up-&-coming comedians & national headliners. [444 Battery St](https://www.google.com/maps/place/The+Punchline+San+Francisco/@37.7951029,-122.4010822,18z/data=!4m5!3m4!1s0x0:0x6ddc7427bfed3dff!8m2!3d37.7953447!4d-122.3998772)
 
 
 # Shops
@@ -98,6 +106,7 @@ It's where I live, just the best
 - Biergarten
 - Originals Vinyl
 - Tacos Cala
+- Rickshaw Stop
 
 ## Mission
 - Woods Cervecería
@@ -133,11 +142,13 @@ It's where I live, just the best
 ## Noe Valley
 - La Ciccia
 
-## The Marina
+## Marina
 - Palace of Fine Arts Theatre
+- Reed & Greenough
 
 ## FiDi
 - Sababa
+- Pagan Idol
 
 ## Fisherman's Wharf
 - The Buena Vista
