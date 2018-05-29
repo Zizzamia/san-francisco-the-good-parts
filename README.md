@@ -1,5 +1,16 @@
 > San Francisco is the best!
 
+<a href="https://www.instagram.com/p/BW815gZBfDC/?taken-by=zizzamia" target="_blank"
+style="float:left">
+  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/embarcadero.jpg"
+  height="250" />
+</a>
+<a href="https://www.instagram.com/p/BNJmu18j-F8/?taken-by=zizzamia" target="_blank"
+style="float:left">
+  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/hayes-valley"
+  height="250" />
+</a>
+
 ### English
 I'm Leonardo Zizzamia, and this is a list of my favorite places in San Francisco. I’m always on the lookout for new things the city has to offer so I’ll be adding to the list periodically as I discover new favorites.
 My taste is based on the traditions I was brought up with in Taranto, a seafood town in Southern Italy with incredible pastries, coffee, and simple (but delicious) flavors. 
@@ -84,6 +95,7 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc. St
 # Must to see
 - [Yoda Fountain](https://www.google.com/maps/uv?hl=en&pb=!1s0x8085872a4f73f3fd:0xe9c90de80067ba0e!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps://www.atlasobscura.com/places/yoda-fountain!5syoda+fountain+-+Google+Search&imagekey=!1e1!2shttps://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzLzZmOTgxZGFjMjI1MmQwYjZiY180NDg2MDYzNDUyXzIwZmI0MzBjOWRfYi5qcGciXSxbInAiLCJ0aHVtYiIsIngzOTA-Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDgxIC1hdXRvLW9yaWVudCJdXQ&sa=X&ved=0ahUKEwiMr9DikqrbAhWiJDQIHX9QBMIQoioIswEwDg): [1 Letterman Dr](https://www.google.com/maps/place/Yoda+Fountain/@37.7984628,-122.450812,18z/data=!4m5!3m4!1s0x8085872a4f73f3fd:0xe9c90de80067ba0e!8m2!3d37.7988301!4d-122.4504892)
 - [Palace of Fine Arts Theatre](https://www.google.com/maps/place/Palace+of+Fine+Arts+Theatre/@37.802292,-122.4494073,3a,79.4y,90t/data=!3m8!1e2!3m6!1shttp:%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn:ANd9GcQ7qQrEtGKT8ETEAFGLMhG82qBGtWWQfNJbq1Mk-UaddOQ-nZIx!2e7!3e27!6s%2F%2Flh4.googleusercontent.com%2Fproxy%2F3-PBtSmSt29O-7wQKPrtMQQFTMUKUBurvBmrbBY7T28ogOlTmv719OKmbenq-R98GgI-AvEWHNFsBbr4jubNVyMDkg37qlJzECAGt91D1uEG14glwy5_BJkIsP536tBJgGo6EwLFbIAK02GD69EZ_df3lC9u7A%3Dw128-h86-k-no!7i1080!8i721!4m5!3m4!1s0x0:0x92d8d1553a44df2c!8m2!3d37.8029581!4d-122.449193): [3301 Lyon St](https://www.google.com/maps/place/Palace+of+Fine+Arts+Theatre/@37.8030244,-122.4498042,16z/data=!4m5!3m4!1s0x0:0x92d8d1553a44df2c!8m2!3d37.8029581!4d-122.449193)
+- [Ferry Building](https://www.google.com/maps/place/Ferry+Building/@37.7955169,-122.3934728,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNL9iry_yOiH_o1UDxMkZbe7LCFKCr7UTP1YYmU!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNL9iry_yOiH_o1UDxMkZbe7LCFKCr7UTP1YYmU%3Dw114-h86-k-no!7i4032!8i3024!4m5!3m4!1s0x808580668d266fe7:0x229df5ca5626e6aa!8m2!3d37.7955169!4d-122.3934728): [Ferry Building](https://www.google.com/maps/place/Ferry+Building/@37.7954169,-122.3940168,18z/data=!4m5!3m4!1s0x808580668d266fe7:0x229df5ca5626e6aa!8m2!3d37.7955169!4d-122.3934728)
 
 
 # Touristic AF
@@ -149,6 +161,7 @@ It's where I live, just the best
 ## FiDi
 - Sababa
 - Pagan Idol
+- Ferry Building
 
 ## Fisherman's Wharf
 - The Buena Vista
