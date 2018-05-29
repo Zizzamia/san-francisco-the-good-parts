@@ -1,17 +1,17 @@
 <a href="https://www.instagram.com/p/BW815gZBfDC/?taken-by=zizzamia" target="_blank"
 style="float:left; margin-right:20px; text-decoration: none;">
   <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/embarcadero.jpg"
-  height="320" />
-</a>
-<a href="https://www.instagram.com/p/BNJmu18j-F8/?taken-by=zizzamia" target="_blank"
-style="float:left; margin-right:20px; text-decoration: none;">
-  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/hayes-valley.jpg"
-  height="320" />
+  height="300" />
 </a>
 <a href="https://www.instagram.com/p/_-vW1LiZPm/?taken-by=zizzamia" target="_blank"
 style="float:left; text-decoration: none;">
   <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/golden-gate-bridge.jpg"
-  height="320" />
+  height="300" />
+</a>
+<a href="https://www.instagram.com/p/BNJmu18j-F8/?taken-by=zizzamia" target="_blank"
+style="float:left; margin-right:20px; text-decoration: none;">
+  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/hayes-valley.jpg"
+  height="300" />
 </a>
 
 
