@@ -7,7 +7,7 @@ My taste is based on the traditions I was brought up with in Taranto, a seafood 
 I have been living in San Francisco since 2013, but I might miss an incredible restaurant, art gallery or Biergarten in my exploration, so please feel free to contact me on Twitter ([@zizzamia](https://twitter.com/zizzamia)) or send a Pull Request with your suggestions, I would love to uncover more of SF. Grazie!
 
 ### Tarantino
-M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc.
+M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc. Stoc sempr a ricerc d post nuev ca a città offr,tnennl sempr aggiornt d scopert nuev.
 
 # Food
 
@@ -16,6 +16,7 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc.
 - [Pizzeria Delfina](http://pizzeriadelfina.com/pacific-heights/): Pizza plus seasonal antipasti, salads & Italian wines in modern digs. [2406 California St](https://www.google.com/maps/place/Pizzeria+Delfina/@37.7888889,-122.43551,17z/data=!4m5!3m4!1s0x808580c6335939e3:0xcb5db4f96aa23a45!8m2!3d37.789102!4d-122.4344362)
 
 ## Bakery
+- Arsicault Bakery: French bakery with a petite, rustic interior & a pastry case for kouign-amann to scones & more. [397 Arguello Blvd](https://www.google.com/maps/place/Arsicault+Bakery/@37.7823472,-122.466625,15z/data=!4m12!1m6!3m5!1s0x0:0xe9c90de80067ba0e!2sYoda+Fountain!8m2!3d37.7988301!4d-122.4504895!3m4!1s0x0:0x2f0b49df0ee8b492!8m2!3d37.7834264!4d-122.4593049)
 - [Vive La Tarte](http://www.vivelatarte.com/): Lofty, industrial-chic Belgian bakery with an open kitchen for tarts, plus coffee, tea & juice. [1160 Howard St](https://www.google.com/maps/place/Vive+La+Tarte/@37.7792857,-122.4148183,16z/data=!4m13!1m7!3m6!1s0x80858084fc1a5ec1:0xc117a01fcf492512!2s510+Stevenson+St,+San+Francisco,+CA+94103!3b1!8m2!3d37.7818105!4d-122.4103578!3m4!1s0x0:0x990a167b26d9f867!8m2!3d37.7770486!4d-122.4109836) 
 
 ## Gelato
@@ -26,6 +27,9 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc.
 
 ## Cucina Romana
 - [54 Mint SF](http://www.54mint.com/): On a tiny alley, this modern Italian trattoria serves up elevated Roman dishes & Italian wines. [16 Mint Plaza](https://www.google.com/maps/place/54+Mint+SF/@37.783474,-122.406241,17z/data=!4m5!3m4!1s0x0:0xfee4397b25a1c505!8m2!3d37.7825768!4d-122.4079822)
+
+## Cucina Sarda
+- [La Ciccia](http://www.laciccia.com/): Tiny, rustic spot serving homemade spaghetti, octopus stew & other Sardinian eats plus myriad wines. [291 30th St](https://www.google.com/maps/place/La+Ciccia/@37.7440414,-122.42745,16z/data=!4m5!3m4!1s0x0:0xfb3a341511914d68!8m2!3d37.7420123!4d-122.4266437)
 
 ## Sushi
 - Otoro Sushi: Inventive fusion menu of Japanese tapas, sushi & specialty dishes with a California twist. [205 Oak St](https://www.google.com/maps/place/Otoro+Sushi/@37.7749768,-122.4229774,19z/data=!4m13!1m7!3m6!1s0x80858084fc1a5ec1:0xc117a01fcf492512!2s510+Stevenson+St,+San+Francisco,+CA+94103!3b1!8m2!3d37.7818105!4d-122.4103578!3m4!1s0x0:0x50d6c0350f0737d!8m2!3d37.77488!4d-122.422959)
@@ -52,14 +56,20 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc.
 - [Whitechapel](http://whitechapelsf.com/): Gin-focused cocktail lounge with globally inspired eats in expansive, ornate, Victorian-themed digs. [600 Polk St](https://www.google.com/maps/place/Whitechapel/@37.7820208,-122.4192236,17z/data=!4m5!3m4!1s0x0:0x450f494e526893e7!8m2!3d37.7824004!4d-122.418876)
 
 
-# Shops
+## Live Music
+- [Bottom of the Hill](http://www.bottomofthehill.com/): From indie rock to hip-hop, this popular club offers a range of live music, plus outdoor seating. [1233 17th St](https://www.google.com/maps/place/Bottom+of+the+Hill/@37.7655346,-122.4027513,16z/data=!4m5!3m4!1s0x0:0x7f2858c020d2203b!8m2!3d37.7650663!4d-122.3964688)
 
+
+# Shops
 - [Bi-Rite Market](http://www.biritemarket.com/): Relaxed go-to for thoughtfully sourced meats & market items, plus gourmet baked goods & ice cream. [550 Divisadero St,](https://www.google.com/maps/place/Bi-Rite+Market/@37.7767838,-122.4357121,16z/data=!4m5!3m4!1s0x0:0x66d780a4e33aa533!8m2!3d37.7747981!4d-122.4374624)
 - [Originals Vinyl](https://originalsvinyl.com/): Originals is the single source for all of your vinyl collection needs. [701 Fillmore St](https://www.google.com/maps/place/Originals+Vinyl/@37.7767838,-122.4357121,16z/data=!4m5!3m4!1s0x0:0xcaec7ddafa89577b!8m2!3d37.7759504!4d-122.4313791)
 
 
-# Must to see
+## Dance Classes
+- [Dance Mission Theater](http://www.dancemission.com/): Theater & home to Krissy Keefer's Dance Brigade, hosting a range of dance performances & classes. [3316 24th St](https://www.google.com/maps/place/Dance+Mission+Theater/@37.7533307,-122.4219461,16z/data=!4m5!3m4!1s0x0:0xf205107fc3f6c2d6!8m2!3d37.7523133!4d-122.4188787)
 
+
+# Must to see
 - [Yoda Fountain](https://www.google.com/maps/uv?hl=en&pb=!1s0x8085872a4f73f3fd:0xe9c90de80067ba0e!2m22!2m2!1i80!2i80!3m1!2i20!16m16!1b1!2m2!1m1!1e1!2m2!1m1!1e3!2m2!1m1!1e5!2m2!1m1!1e4!2m2!1m1!1e6!3m1!7e115!4shttps://www.atlasobscura.com/places/yoda-fountain!5syoda+fountain+-+Google+Search&imagekey=!1e1!2shttps://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzLzZmOTgxZGFjMjI1MmQwYjZiY180NDg2MDYzNDUyXzIwZmI0MzBjOWRfYi5qcGciXSxbInAiLCJ0aHVtYiIsIngzOTA-Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDgxIC1hdXRvLW9yaWVudCJdXQ&sa=X&ved=0ahUKEwiMr9DikqrbAhWiJDQIHX9QBMIQoioIswEwDg): [1 Letterman Dr](https://www.google.com/maps/place/Yoda+Fountain/@37.7984628,-122.450812,18z/data=!4m5!3m4!1s0x8085872a4f73f3fd:0xe9c90de80067ba0e!8m2!3d37.7988301!4d-122.4504892)
 - [Palace of Fine Arts Theatre](https://www.google.com/maps/place/Palace+of+Fine+Arts+Theatre/@37.802292,-122.4494073,3a,79.4y,90t/data=!3m8!1e2!3m6!1shttp:%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn:ANd9GcQ7qQrEtGKT8ETEAFGLMhG82qBGtWWQfNJbq1Mk-UaddOQ-nZIx!2e7!3e27!6s%2F%2Flh4.googleusercontent.com%2Fproxy%2F3-PBtSmSt29O-7wQKPrtMQQFTMUKUBurvBmrbBY7T28ogOlTmv719OKmbenq-R98GgI-AvEWHNFsBbr4jubNVyMDkg37qlJzECAGt91D1uEG14glwy5_BJkIsP536tBJgGo6EwLFbIAK02GD69EZ_df3lC9u7A%3Dw128-h86-k-no!7i1080!8i721!4m5!3m4!1s0x0:0x92d8d1553a44df2c!8m2!3d37.8029581!4d-122.449193): [3301 Lyon St](https://www.google.com/maps/place/Palace+of+Fine+Arts+Theatre/@37.8030244,-122.4498042,16z/data=!4m5!3m4!1s0x0:0x92d8d1553a44df2c!8m2!3d37.8029581!4d-122.449193)
 
@@ -86,6 +96,7 @@ It's where I live, just the best
 
 ## Mission
 - Woods Cervecería
+- Dance Mission Theater
 
 ## Nopa
 - Bi-Rite Market
@@ -107,8 +118,14 @@ It's where I live, just the best
 ## Nob Hill
 - Saint Frank Coffee
 
+## Potrero Hill
+- Bottom of the Hill
+
 ## Pacific Heights
 - Pizzeria Delfina
+
+## Noe Valley
+- La Ciccia
 
 ## The Marina
 - Palace of Fine Arts Theatre
@@ -118,6 +135,9 @@ It's where I live, just the best
 
 ## Fisherman's Wharf
 - The Buena Vista
+
+## Richmond District
+- Arsicault Bakery
 
 # Credits
 
