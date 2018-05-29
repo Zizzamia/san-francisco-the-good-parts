@@ -5,9 +5,15 @@ style="float:left; margin-right:20px">
 </a>
 <a href="https://www.instagram.com/p/BNJmu18j-F8/?taken-by=zizzamia" target="_blank"
 style="float:left">
-  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/hayes-valle.jpg"
+  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/hayes-valley.jpg"
   height="340" />
 </a>
+<a href="https://www.instagram.com/p/_-vW1LiZPm/?taken-by=zizzamia" target="_blank"
+style="float:left; margin-right:20px">
+  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/golden-gate-bridge.jpg"
+  height="340" />
+</a>
+
 
 ### English
 I'm Leonardo Zizzamia, and this is a list of my favorite places in San Francisco. I’m always on the lookout for new things the city has to offer so I’ll be adding to the list periodically as I discover new favorites.
