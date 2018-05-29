@@ -40,6 +40,10 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc. St
 ## Israeli
 - [Sababa](https://www.sababasf.com/): Airy counter-serve lunch stop serving Israeli pita, hummus, bowls & Mediterranean street food. [554 Commercial St](https://www.google.com/maps/place/Sababa/@37.7945277,-122.403551,18z/data=!4m5!3m4!1s0x0:0x59bdc5e8650386b!8m2!3d37.7944311!4d-122.4024071)
 
+## Mexican
+- [Tacos Cala](https://www.calarestaurant.com/): Taqueria entrance is on Hickory street and has standing room only [50 Hickory St](https://www.google.com/maps/place/Tacos+Cala/@37.7760386,-122.4217782,18z/data=!3m1!5s0x8085809ecf84a8e3:0x486cece46f290df0!4m5!3m4!1s0x8085809ec5ba853b:0x98bc09f98ab954fa!8m2!3d37.775917!4d-122.4203707)
+- La Taqueria: This no-frills taqueria serves Mexican eats, including famed traditional-style, rice-free burritos. [2889 Mission St](https://www.google.com/maps/place/La+Taqueria/@37.7516832,-122.4226318,16z/data=!4m5!3m4!1s0x0:0x21fce96ce541e475!8m2!3d37.7508967!4d-122.4180847)
+
 # Drinks
 
 ## Coffee
@@ -56,7 +60,7 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc. St
 - [Whitechapel](http://whitechapelsf.com/): Gin-focused cocktail lounge with globally inspired eats in expansive, ornate, Victorian-themed digs. [600 Polk St](https://www.google.com/maps/place/Whitechapel/@37.7820208,-122.4192236,17z/data=!4m5!3m4!1s0x0:0x450f494e526893e7!8m2!3d37.7824004!4d-122.418876)
 
 
-## Live Music
+# Live Music
 - [Bottom of the Hill](http://www.bottomofthehill.com/): From indie rock to hip-hop, this popular club offers a range of live music, plus outdoor seating. [1233 17th St](https://www.google.com/maps/place/Bottom+of+the+Hill/@37.7655346,-122.4027513,16z/data=!4m5!3m4!1s0x0:0x7f2858c020d2203b!8m2!3d37.7650663!4d-122.3964688)
 
 
@@ -65,7 +69,7 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc. St
 - [Originals Vinyl](https://originalsvinyl.com/): Originals is the single source for all of your vinyl collection needs. [701 Fillmore St](https://www.google.com/maps/place/Originals+Vinyl/@37.7767838,-122.4357121,16z/data=!4m5!3m4!1s0x0:0xcaec7ddafa89577b!8m2!3d37.7759504!4d-122.4313791)
 
 
-## Dance Classes
+# Dance Classes
 - [Dance Mission Theater](http://www.dancemission.com/): Theater & home to Krissy Keefer's Dance Brigade, hosting a range of dance performances & classes. [3316 24th St](https://www.google.com/maps/place/Dance+Mission+Theater/@37.7533307,-122.4219461,16z/data=!4m5!3m4!1s0x0:0xf205107fc3f6c2d6!8m2!3d37.7523133!4d-122.4188787)
 
 
@@ -93,10 +97,12 @@ It's where I live, just the best
 - Ritual Coffee Roasters
 - Biergarten
 - Originals Vinyl
+- Tacos Cala
 
 ## Mission
 - Woods Cervecería
 - Dance Mission Theater
+- La Taqueria
 
 ## Nopa
 - Bi-Rite Market
