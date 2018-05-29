@@ -1,12 +1,12 @@
 <a href="https://www.instagram.com/p/BW815gZBfDC/?taken-by=zizzamia" target="_blank"
 style="float:left; margin-right:20px">
   <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/embarcadero.jpg"
-  height="300" />
+  height="340" />
 </a>
 <a href="https://www.instagram.com/p/BNJmu18j-F8/?taken-by=zizzamia" target="_blank"
 style="float:left">
-  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/hayes-valle.jpgy"
-  height="300" />
+  <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/hayes-valle.jpg"
+  height="340" />
 </a>
 
 ### English
