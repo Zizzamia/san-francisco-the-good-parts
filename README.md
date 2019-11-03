@@ -1,17 +1,17 @@
 <a href="https://www.instagram.com/p/BW815gZBfDC/?taken-by=zizzamia" target="_blank"
 style="float:left; margin-right:20px; text-decoration: none;">
   <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/embarcadero.jpg"
-  height="314" />
+  height="310" />
 </a>
 <a href="https://www.instagram.com/p/_-vW1LiZPm/?taken-by=zizzamia" target="_blank"
 style="float:left; text-decoration: none;">
   <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/golden-gate-bridge.jpg"
-  height="314" />
+  height="310" />
 </a>
 <a href="https://www.instagram.com/p/BNJmu18j-F8/?taken-by=zizzamia" target="_blank"
 style="float:left; margin-right:20px; text-decoration: none;">
   <img src="https://github.com/Zizzamia/san-francisco-the-good-parts/blob/master/pictures/hayes-valley.jpg"
-  height="314" />
+  height="310" />
 </a>
 
 
@@ -27,6 +27,7 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc. St
 # Food
 
 ## Pizzerie
+- [Doppio Zero](https://dzpizzeria.com/dz-san-francisco-menu/): The best pizza in the Bay Area. [395 Hayes St](https://www.google.com/maps/place/Doppio+Zero/@37.7774819,-122.4217261,18z/data=!4m5!3m4!1s0x80858098bf18d5b5:0xa54cb5627c85e368!8m2!3d37.7767846!4d-122.4227682)
 - [Montesacro Pinseria](http://www.montesacrosf.com/full-menu): Industrial-chic enoteca for Roman-style pizza (called "pinsa") from a brick oven, plus wine & beer. [510 Stevenson St](https://www.google.com/maps/place/Montesacro+Pinseria+-+Enoteca/@37.781626,-122.4109237,18z/data=!4m13!1m7!3m6!1s0x80858084fc1a5ec1:0xc117a01fcf492512!2s510+Stevenson+St,+San+Francisco,+CA+94103!3b1!8m2!3d37.7818105!4d-122.4103578!3m4!1s0x0:0xa0a7291deb809760!8m2!3d37.7816131!4d-122.410139)
 - [Pizzeria Delfina](http://pizzeriadelfina.com/pacific-heights/): Pizza plus seasonal antipasti, salads & Italian wines in modern digs. [2406 California St](https://www.google.com/maps/place/Pizzeria+Delfina/@37.7888889,-122.43551,17z/data=!4m5!3m4!1s0x808580c6335939e3:0xcb5db4f96aa23a45!8m2!3d37.789102!4d-122.4344362)
 
@@ -88,8 +89,13 @@ M chiam Leonardo zizzania, e quest e a list d l post preferit d San francisc. St
 
 
 # Shops
-- [Bi-Rite Market](http://www.biritemarket.com/): Relaxed go-to for thoughtfully sourced meats & market items, plus gourmet baked goods & ice cream. [550 Divisadero St,](https://www.google.com/maps/place/Bi-Rite+Market/@37.7767838,-122.4357121,16z/data=!4m5!3m4!1s0x0:0x66d780a4e33aa533!8m2!3d37.7747981!4d-122.4374624)
+- [Bi-Rite Market](http://www.biritemarket.com/): Relaxed go-to for thoughtfully sourced meats & market items, plus gourmet baked goods & ice cream. [550 Divisadero St](https://www.google.com/maps/place/Bi-Rite+Market/@37.7767838,-122.4357121,16z/data=!4m5!3m4!1s0x0:0x66d780a4e33aa533!8m2!3d37.7747981!4d-122.4374624)
 - [Originals Vinyl](https://originalsvinyl.com/): Originals is the single source for all of your vinyl collection needs. [701 Fillmore St](https://www.google.com/maps/place/Originals+Vinyl/@37.7767838,-122.4357121,16z/data=!4m5!3m4!1s0x0:0xcaec7ddafa89577b!8m2!3d37.7759504!4d-122.4313791)
+- [Al's Attire](https://www.alsattire.com/) Vintage-chic store for bespoke men's & women's clothing & shoes made from luxury materials. [1300 Grant Ave](https://www.google.com/maps/place/Al's+Attire/@37.79816,-122.413843,16z/data=!4m5!3m4!1s0x808580f3f82a7cab:0x13d1cd6e58fd6e61!8m2!3d37.799014!4d-122.4071494?authuser=1)
+
+
+# SPAs
+- [Archimedes Banya](http://banyasf.com/): Massage and Spa Services. [748 Innes Ave](https://www.google.com/maps/place/Archimedes+Banya/@37.7366031,-122.400024,14z/data=!4m8!1m2!2m1!1sbagna!3m4!1s0x0:0x87813c37cf522568!8m2!3d37.7305387!4d-122.3727179?authuser=1)
 
 
 # Dance Classes
@@ -117,6 +123,7 @@ Lyft, Bikes, Bus, Walk
 
 ## Hayes Valley
 It's where I live, just the best
+- Doppio Zero
 - Otoro Sushi
 - Souvla
 - Linden Room
@@ -148,6 +155,7 @@ It's where I live, just the best
 
 ## North Beach
 - The Italian Homemade Company
+- Al's Attire
 
 ## Nob Hill
 - Saint Frank Coffee
@@ -176,7 +184,9 @@ It's where I live, just the best
 ## Richmond District
 - Arsicault Bakery
 
+## BayView
+- Archimedes Banya
+
 # Credits
 
 Made with ☕️  by [@zizzamia](https://twitter.com/zizzamia) 
-
