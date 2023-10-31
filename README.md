@@ -159,6 +159,7 @@ It's where I live, just the best
 ## Nopa
 
 - Bi-Rite Market
+- Che Fico
 
 ## Civic Center
 
